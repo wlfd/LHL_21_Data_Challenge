@@ -1,2 +1,3 @@
-# LHL_21_Data_Challenge
-Lighthouse Lab 21-Day Data Challenge (2021)
+# Lighthouse Lab 21-Day Data Challenge (2021)
+
+Introduction to Python and Anaconda
