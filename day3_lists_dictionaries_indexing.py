@@ -22,12 +22,12 @@ shopping_list = [
 
 
 new_shopping_list = {}
-paint_list = new_shopping_list[3:] # does not include index 3
+paint_list = new_shopping_list[3:]  # does not include index 3
 
-list = [1,2,3,4,5]
-list[1:4] #Print the range between index position 1 to before 4. Output will be [2,3,4]
-list[1:5] #Print the range between index position 1 to before 5. Output will be [2,3,4,5]
-list[1:] #Print the range between index position 1 to the end. Output will be the [2,3,4,5]
-list[:2] #Print the range between index position 0 to before 2. Output will be [1,2]
+list = [1, 2, 3, 4, 5]
+list[1:4]  # Print the range between index position 1 to before 4. Output will be [2,3,4]
+list[1:5]  # Print the range between index position 1 to before 5. Output will be [2,3,4,5]
+list[1:]  # Print the range between index position 1 to the end. Output will be the [2,3,4,5]
+list[:2]  # Print the range between index position 0 to before 2. Output will be [1,2]
 
 print(paint_list)

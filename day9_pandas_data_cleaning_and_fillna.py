@@ -1,5 +1,4 @@
 # df['column_name'] = df['column_name'].fillna(value = 100)
-
 # df['column_name'] = df['column_name'].fillna(method = 'backfill')
 
 import pandas as pd

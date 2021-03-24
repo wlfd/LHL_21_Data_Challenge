@@ -99,3 +99,7 @@ plt.xlabel('This is the x axis!', fontsize = 14) #Specify a title for the x axis
 plt.xticks(rotation = 'vertical') #Specifying a rotation to the x ticks, to make it easier to view large strings
 plt.ylabel('This it the y axis!', fontsize = 14) #Specify a title for the y axis
 plt.show()
+
+# day20_scatterplots
+# specify correlation between 2 specific numerical columns in Pandas
+df['column_1'].corr(df['column_1'])
